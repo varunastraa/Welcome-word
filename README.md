@@ -1,2 +1,2 @@
 # Welcome-word
-Example
+whats your name
